@@ -8,7 +8,7 @@
 
 ## Usage
 1. Add `tomNgSTrigger` as your module dependency
-2. Add attributes to the elements like this:
+2. Add attributes `st-class` to the elements like this:
 ```html
 <ol st-class="{'class1': [1000, 2000], 'add-class2': 'enter', 'remove-class3': 'leave', 'add-class4': 'leave'}">
     <li>add 'class1' when you scroll into 1000~2000 (scrollTop)</li>
