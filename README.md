@@ -17,3 +17,6 @@
     <li>add 'class4' when the element scroll out of the viewport</li>
 </ol>
 ```
+
+## License
+[MIT](http://mit-license.org/)
