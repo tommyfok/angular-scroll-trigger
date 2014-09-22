@@ -1,5 +1,7 @@
 # angular-scroll-trigger
 
+__Note: This repo is working in progress.__
+
 > Set triggers for the user verticle scrolling action, in AngularJS.
 > Use custom css classes to control style and animations.
 
