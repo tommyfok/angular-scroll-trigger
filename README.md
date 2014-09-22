@@ -21,7 +21,7 @@ __Note: This repo is working in progress.__
 </ol>
 ```
 What it does:
-> 1. add 'class1' when you scroll into 1000~2000 (scrollTop)
+> 1. add 'class1' when you scroll into 1000~2000 (scrollTop) and remove when scroll out
 > 2. add 'class2' when the element scroll into viewport
 > 3. remove 'class3' when the element scroll out of the viewport
 > 4. add 'class4' when the element scroll out of the viewport
